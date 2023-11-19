@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRb2NaSn3Ge(ICl)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.51643672
+_cell_length_b   6.05663919
+_cell_length_c   11.38537862
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb2NaSn3Ge(ICl)6
+_chemical_formula_sum   'K1 Rb2 Na1 Sn3 Ge1 I6 Cl6'
+_cell_volume   794.14042914
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00583240  -0.02164924  0.00296130  1
+  Rb  Rb1  1  0.04669736  0.01355255  0.53592106  1
+  Rb  Rb2  1  0.46225603  0.01134950  0.00977051  1
+  Na  Na3  1  0.51753036  -0.12697830  0.39450626  1
+  Ge  Ge4  1  0.24066114  0.52965187  0.23303963  1
+  Sn  Sn5  1  0.24025168  0.53783961  0.76690214  1
+  Sn  Sn6  1  0.73062269  0.49247221  0.21971214  1
+  Sn  Sn7  1  0.77323857  0.49457718  0.75184192  1
+  Cl  Cl8  1  0.17838906  0.52195406  0.02251882  1
+  I  I9  1  0.30005260  0.60580338  0.50705680  1
+  Cl  Cl10  1  0.84749549  0.49149585  -0.01818929  1
+  I  I11  1  0.65157376  0.41738587  0.47607934  1
+  I  I12  1  -0.02698913  0.55387509  0.31233246  1
+  Cl  Cl13  1  0.01091860  0.50480548  0.67728633  1
+  Cl  Cl14  1  0.45335801  0.54269856  0.18672205  1
+  I  I15  1  0.50791483  0.51301777  0.83216388  1
+  I  I16  1  0.24020844  0.04919696  0.25176430  1
+  Cl  Cl17  1  0.21868272  -0.02461927  0.79874565  1
+  Cl  Cl18  1  0.69084402  -0.06662425  0.21953297  1
+  I  I19  1  0.79535883  -0.00438275  0.75723268  1

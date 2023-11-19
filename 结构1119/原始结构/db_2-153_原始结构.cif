@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs3RbSn3GeCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.25468926
+_cell_length_b   5.59515389
+_cell_length_c   11.25468926
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3RbSn3GeCl12
+_chemical_formula_sum   'Cs3 Rb1 Sn3 Ge1 Cl12'
+_cell_volume   708.72712306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00225886  -0.00000029  0.00225883  1
+  Cs  Cs1  1  0.00088321  -0.00000001  0.49814346  1
+  Cs  Cs2  1  0.49814343  -0.00000001  0.00088321  1
+  Rb  Rb3  1  0.53244496  -0.00000010  0.53244495  1
+  Sn  Sn4  1  0.24999678  0.49999998  0.24999679  1
+  Sn  Sn5  1  0.25629425  0.49999979  0.74722850  1
+  Sn  Sn6  1  0.74722850  0.49999979  0.25629452  1
+  Ge  Ge7  1  0.75929722  0.49998619  0.75929698  1
+  Cl  Cl8  1  0.25105087  0.49999998  -0.00218764  1
+  Cl  Cl9  1  0.24364664  0.50000000  0.49955165  1
+  Cl  Cl10  1  0.75158649  0.49999931  -0.02056506  1
+  Cl  Cl11  1  0.74134213  0.50000019  0.49536867  1
+  Cl  Cl12  1  -0.00218768  0.49999998  0.25105086  1
+  Cl  Cl13  1  -0.02056527  0.49999931  0.75158651  1
+  Cl  Cl14  1  0.49955169  0.50000000  0.24364663  1
+  Cl  Cl15  1  0.49536890  0.50000019  0.74134214  1
+  Cl  Cl16  1  0.24161890  0.00000000  0.24161890  1
+  Cl  Cl17  1  0.26006533  0.00000002  0.74740063  1
+  Cl  Cl18  1  0.74740062  0.00000002  0.26006531  1
+  Cl  Cl19  1  0.75032437  0.00001767  0.75032440  1
