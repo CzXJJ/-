@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CsNa3SnGe3I3(BrCl2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.88239906
+_cell_length_b   5.77299512
+_cell_length_c   11.18445035
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNa3SnGe3I3(BrCl2)3
+_chemical_formula_sum   'Cs1 Na3 Sn1 Ge3 I3 Br3 Cl6'
+_cell_volume   767.22009640
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.15237297  -0.06766670  0.01060684  1
+  Cs  Cs1  1  0.02885339  0.03488535  0.49787868  1
+  Na  Na2  1  0.48648759  -0.10785842  0.06452419  1
+  Na  Na3  1  0.44225765  -0.16155034  0.49054329  1
+  Ge  Ge4  1  0.28443964  0.44872183  0.23582981  1
+  Ge  Ge5  1  0.30691928  0.40841008  0.72464858  1
+  Ge  Ge6  1  0.75210363  0.61670301  0.27094979  1
+  Sn  Sn7  1  0.74053755  0.50382591  0.77671387  1
+  I  I8  1  0.39853279  0.39926324  -0.03617735  1
+  Br  Br9  1  0.21352971  0.52158998  0.45916571  1
+  Cl  Cl10  1  0.77997471  0.43097159  0.01228099  1
+  I  I11  1  0.72582445  0.80520913  0.50808774  1
+  Cl  Cl12  1  -0.05543910  0.73748192  0.23894003  1
+  I  I13  1  -0.02076562  0.67772023  0.78124818  1
+  Cl  Cl14  1  0.47646335  0.53733878  0.28299510  1
+  Cl  Cl15  1  0.48487660  0.41650594  0.62845794  1
+  Cl  Cl16  1  0.30542196  0.03800236  0.26057319  1
+  Br  Br17  1  0.28323804  -0.03373442  0.70274237  1
+  Cl  Cl18  1  0.68191717  -0.02456967  0.19317378  1
+  Br  Br19  1  0.64645601  -0.07805997  0.84113015  1
