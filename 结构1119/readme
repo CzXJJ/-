@@ -1,0 +1,9 @@
+这里整理了"Machine Learning Stability and Bandgaps of Lead-Free Perovskites for Photovoltaics"中用到的的344个钙钛矿信息
+找到的源文件是.data格式的
+通过python转成CIF文件
+在弛豫后结构的CIF文件开头都用#注释的方式写了改晶体的energy和gap值
+
+
+原数据文件来源于：https://acdc.alcf.anl.gov/mdf/detail/stanley_machine_learning_photovoltaics_v1.1/
+paper是可以免费下载的】
+他的硕士论文在https://github.com/jstanai/Machine-Learning-Perovskite-Properties-for-Photovoltaics/tree/master连接中可以找到
