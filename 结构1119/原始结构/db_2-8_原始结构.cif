@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRbNa2Ge4(IBr)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.61102389
+_cell_length_b   5.93253778
+_cell_length_c   11.12390938
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbNa2Ge4(IBr)6
+_chemical_formula_sum   'Rb1 K1 Na2 Ge4 I6 Br6'
+_cell_volume   766.24644673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.05359949  -0.00430617  -0.00870888  1
+  Na  Na1  1  0.09939385  -0.00442392  0.50527312  1
+  K  K2  1  0.49173673  -0.00521021  -0.03095031  1
+  Na  Na3  1  0.58219913  -0.00049233  0.46475644  1
+  Ge  Ge4  1  0.25228928  0.49410661  0.23921924  1
+  Ge  Ge5  1  0.23341860  0.49770921  0.74689018  1
+  Ge  Ge6  1  0.73605253  0.46595076  0.23512879  1
+  Ge  Ge7  1  0.76360220  0.49894913  0.71910704  1
+  Br  Br8  1  0.32266340  0.49391374  0.01929808  1
+  Br  Br9  1  0.17435710  0.49560224  0.51862832  1
+  Br  Br10  1  0.67508678  0.49191602  0.01107605  1
+  Br  Br11  1  0.83201154  0.50584693  0.50188352  1
+  I  I12  1  0.00559372  0.49698270  0.19038722  1
+  Br  Br13  1  -0.03257828  0.49509219  0.81531303  1
+  I  I14  1  0.50948112  0.50167212  0.34705126  1
+  I  I15  1  0.47209428  0.50099412  0.71136879  1
+  I  I16  1  0.26471005  -0.00370238  0.27304818  1
+  I  I17  1  0.20709273  -0.00273534  0.77571535  1
+  Br  Br18  1  0.73252941  0.02243316  0.24047667  1
+  I  I19  1  0.72141136  -0.00042784  0.72494238  1
